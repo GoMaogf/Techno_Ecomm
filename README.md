@@ -12,3 +12,6 @@ admin - password
 CREDENTIALS OF USER:
 manny@gmail.com - user/email
 hotdog - user/email
+
+
+LINK OF THE DEPLOYED PROJECT - http://eygiyugioh.000webhostapp.com
